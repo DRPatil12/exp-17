@@ -1,6 +1,14 @@
-AIM: To study different data visualization techniques using Matplotlib and Seaborn including line charts, bar charts, histograms, and scatter plots.
+# NAME: Dhruv Patil
 
-THEORY : pd.DataFrame(): Creates a structured dataset for visualization.
+# PRN: 25070123146
+
+## AIM:
+
+To study different data visualization techniques using Matplotlib and Seaborn including line charts, bar charts, histograms, and scatter plots.
+
+## THEORY :
+
+pd.DataFrame(): Creates a structured dataset for visualization.
 
 display(): Displays the dataset in tabular format.
 
@@ -60,4 +68,6 @@ errorbar=None: Removes error bars from Seaborn plots.
 
 Data visualization: Helps represent data graphically for better understanding and analysis.
 
-CONCLUSION : In this experiment, we explored different types of data visualization techniques using Matplotlib and Seaborn. Various plots such as line charts, bar charts, histograms, and scatter plots were created to analyze trends, comparisons, and relationships. Visualization makes data easier to interpret and helps in better decision-making. These tools are essential for effective data analysis and presentation.
+## CONCLUSION :
+
+In this experiment, we explored different types of data visualization techniques using Matplotlib and Seaborn. Various plots such as line charts, bar charts, histograms, and scatter plots were created to analyze trends, comparisons, and relationships. Visualization makes data easier to interpret and helps in better decision-making. These tools are essential for effective data analysis and presentation.
